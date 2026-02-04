@@ -26,7 +26,7 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />|Basic |
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />|Basic |
 
-**TOOLS, FRAMEWORKS, PLATFORMS AND LIBRARIES:**
+**Tecnologias/Ferramentas::**
 | Skill | Level |  
 | ------------- | ------------- | 
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="django logo"  />|intermediary |
