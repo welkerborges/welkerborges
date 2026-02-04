@@ -15,7 +15,7 @@
 
 ###
 
-**Tecnologias**
+**Linguagens**
 
 ###
 
